@@ -6,7 +6,7 @@
             "project_number": "371113714233",
             "debug": true,
             "notifications_when_active": false,
-            "id": "b4428446-82b7-4673-8f2a-2de7c8a52d48"
+            "id": "9c3ef097-fc51-4d29-9eed-3a04f060207f"
         },
         "Facebook": {
             "debug": false
@@ -15,8 +15,8 @@
     "ios": {
         "OneSignal": {
             "debug": false,
-            "id": "63b2a45f-0204-4f77-9403-6d4135e37dbc",
-            "auto_register": true
+            "id": "9c3ef097-fc51-4d29-9eed-3a04f060207f",
+            "auto_register": false
         },
         "Facebook": {
             "debug": true
